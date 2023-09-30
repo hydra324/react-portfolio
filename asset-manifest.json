@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/hydra324.github.io/static/css/main.0cbefbbe.chunk.css",
+    "main.js": "/hydra324.github.io/static/js/main.db36d502.chunk.js",
+    "main.js.map": "/hydra324.github.io/static/js/main.db36d502.chunk.js.map",
+    "runtime-main.js": "/hydra324.github.io/static/js/runtime-main.a9dddaf8.js",
+    "runtime-main.js.map": "/hydra324.github.io/static/js/runtime-main.a9dddaf8.js.map",
+    "static/css/2.242f24fe.chunk.css": "/hydra324.github.io/static/css/2.242f24fe.chunk.css",
+    "static/js/2.2369a883.chunk.js": "/hydra324.github.io/static/js/2.2369a883.chunk.js",
+    "static/js/2.2369a883.chunk.js.map": "/hydra324.github.io/static/js/2.2369a883.chunk.js.map",
+    "index.html": "/hydra324.github.io/index.html",
+    "precache-manifest.17e844df07f6a179c681b2982e3afab6.js": "/hydra324.github.io/precache-manifest.17e844df07f6a179c681b2982e3afab6.js",
+    "service-worker.js": "/hydra324.github.io/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/hydra324.github.io/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.0cbefbbe.chunk.css.map": "/hydra324.github.io/static/css/main.0cbefbbe.chunk.css.map",
+    "static/js/2.2369a883.chunk.js.LICENSE": "/hydra324.github.io/static/js/2.2369a883.chunk.js.LICENSE",
+    "static/media/earth.jpg": "/hydra324.github.io/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/hydra324.github.io/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/hydra324.github.io/static/media/image1.768998c6.jpg",
+    "static/media/image2.jpg": "/hydra324.github.io/static/media/image2.8de6195d.jpg",
+    "static/media/image3.jpg": "/hydra324.github.io/static/media/image3.28470933.jpg",
+    "static/media/image4.jpg": "/hydra324.github.io/static/media/image4.0b37f434.jpg",
+    "static/media/image5.jpg": "/hydra324.github.io/static/media/image5.8d16c4af.jpg",
+    "static/media/image6.jpg": "/hydra324.github.io/static/media/image6.62b7cc75.jpg",
+    "static/media/ionicons.css": "/hydra324.github.io/static/media/ionicons.621bd386.svg",
+    "static/media/male.png": "/hydra324.github.io/static/media/male.a82ab1cd.png",
+    "static/media/male1.png": "/hydra324.github.io/static/media/male1.3ec3891b.png",
+    "static/media/myImage.png": "/hydra324.github.io/static/media/myImage.bd80794f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9dddaf8.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.2369a883.chunk.js",
+    "static/css/main.0cbefbbe.chunk.css",
+    "static/js/main.db36d502.chunk.js"
+  ]
+}
